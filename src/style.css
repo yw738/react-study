@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.active {
+    color: red;
+    border: 1px dashed blue;
+}
+
+.tab_box {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+.formClass {
+    border: 1px dashed rgba(50, 198, 224, 0.568);
+}
